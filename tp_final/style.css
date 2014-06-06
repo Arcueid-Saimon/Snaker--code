@@ -313,3 +313,7 @@ img
     border-radius: 25px;
 
 }
+:required
+{
+    background-color: red;
+}

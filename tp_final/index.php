@@ -23,6 +23,7 @@
                     include("includes/aboutAuthors.html");
                 ?>
             </section>
+            
         </div>
     </body>
 </html>
